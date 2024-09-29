@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Threading;
 using Unity.Mathematics;
 using UnityEngine;
-
+//这是一次修改
 public class board : MonoBehaviour
 {
 
