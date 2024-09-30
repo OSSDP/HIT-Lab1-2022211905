@@ -12,7 +12,7 @@ public class player : MonoBehaviour
         if (chesscolor == board.Instance.turn && board.Instance.timer > 0.5f) dochess();
         
     }
-
+    //a change for B2
     public void dochess()
     {
         
